@@ -10,4 +10,6 @@ I'm Fred. A frontend developer in the making.
 
 🌱🌍 Embracing life's wonders with boundless curiosity.
 
+💬 Contact me whenever at fredrik.mhakansson@gmail.com 
+
 Let's explore the digital landscape together!
