@@ -1,6 +1,6 @@
 
 
-I'm Fred. A frontend developer in the making.
+Hi, I'm Fred – a frontend developer with a broad skill set spanning UX/UI design, frontend technologies, and a touch of backend development.
 
 🛒🔜💻 Passionately shifted gears to frontend development.
 
